@@ -1,0 +1,229 @@
+/*Estilo*/
+
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}	
+
+
+/*Container*/
+
+#container{
+	background:#FFA500;
+
+}
+
+/*Itens menu*/
+.menu, a{
+	text-align:center;
+	text-decoration: none;
+	margin-top: 20px;
+	margin:auto;
+	line-height: -10px;
+	padding: 15px;
+	color: #fff;
+
+	
+}
+
+a{
+	margin-top: 20px;
+	letter-spacing:0.2em;
+}
+
+
+a:hover{
+	color:#000;
+	background-color: #fff;
+	border-radius: 10px;
+}
+
+
+/*imagem do container*/
+.garota{
+	padding:20px;
+	height:800px;
+	display: flex;
+	text-align: left;
+}
+
+.fortran{
+	position:absolute; right:1px; top:300px; z-index: 1;
+	width: 280px;
+	margin-right: 150px;
+	border-radius: 10px;
+}
+
+.nortetran{
+	position:absolute; right:1px; top:430px; z-index: 2;
+	width: 280px;
+	margin-right: 150px;
+	border-radius: 10px;
+}
+
+
+/*Formatação do texto*/
+.rede{
+	float: right;
+	padding: 10px;
+	margin-right: 70px;
+}
+
+/*Formatação caixa 1*/
+#caixa1{
+	background:#000;
+}
+
+.agende{
+	color:#fff;
+	text-align: center;
+	padding: 20px;
+}
+
+.caixa1-1{
+	background: #FFA500;
+	margin-left: 300px;
+	width: 300px;
+	height: 30px;
+	padding: 10px;
+	border-radius: 10px;
+	align-items: center;
+	cursor: pointer;
+}
+
+
+.caixa1-2{
+	background: #FFA500;
+	float: right;
+	margin-top: -50px;
+	margin-right: 300px;
+	width: 300px;
+	height: 30px;
+	padding: 10px;
+	border-radius: 10px;
+	align-items: center;
+	cursor: pointer;
+}
+
+
+.wpp{
+	color:#fff;
+	text-align: center;
+	margin: auto;
+}
+
+.tel{
+	color:#fff;
+	text-align: center;
+	margin: auto;
+}
+
+.p-1{
+	color:yellow;
+	text-align: center;
+	padding: 20px;
+}
+
+/*Formatação caixa 2*/
+.nossos{
+	text-align: center;
+	padding: 60px;
+}
+
+.olho{
+	margin-left: 10px;
+}
+
+.cerebro{
+	margin-left:10px;
+}
+
+.aptidao{
+	position:absolute; left: :1px; top:1420px; z-index: 1;
+	margin-left:360px;
+}
+
+.psicotecnico{
+	position:absolute; right:1px; top:1400px; z-index: 2;
+	margin-right:360px;
+}
+
+.apt{
+	background: #A9A9A9;
+	padding: 10px;
+	border-radius: 10px;
+	margin-right: 40px;
+
+}
+
+.psi{
+	background: #A9A9A9;
+	padding: 10px;
+	border-radius: 10px;
+	margin-right: 40px;
+}
+
+/*Formatação caixa 3*/
+#caixa3{
+	background: #FFA500;
+	margin-top: 320px;
+	padding:20px;
+
+}
+
+.unidade{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.cidade{
+	text-align: center;
+
+}
+
+.primeira{
+	position: relative;
+	margin-top: 50px;
+	margin-left: 40px;
+}
+
+.renovacao{
+	position: relative;
+	text-align:center;
+	margin-top: -330px;
+
+}
+
+.mudanca{
+	position: relative;
+	text-align: right;
+	margin-top: -330px;
+	margin-right: 40px;
+}	
+	
+.hab{
+	margin-left: 60px;
+	
+}
+
+.ren{
+	margin-left: 30px;
+	
+}
+
+.mud{
+	margin-right: 20px;
+}
+
+/*Rodapé*/
+
+#rodope{
+	background: ;
+}
+
+.direitos{
+	text-align: center;
+	background:#DCDCDC;
+	padding: 10px;
+	margin: auto;
+	height: 30px;
+}
